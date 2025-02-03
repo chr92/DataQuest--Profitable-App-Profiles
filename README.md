@@ -24,10 +24,7 @@ We will use the following steps to analyze the data:
 3. Identifying Profitable App Profiles
 
 ## Results
-The results of our analysis will be presented here.
-
-## Conclusion
-A summary of our findings and recommendations for app developers.
+The analysis suggests creating a 'Books and Reference' app for the iOS and Android App stores.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
